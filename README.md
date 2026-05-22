@@ -163,5 +163,3 @@ ollama serve
 | `undefined reference to WSA...` | Add `-lws2_32` to your g++ command during compilation |
 | LLM answer is too slow | Switch to the 1B model (`ollama pull llama3.2:1b`) and update `main.cpp` `genModel` variable |
 
-## License
-MIT
