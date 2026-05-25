@@ -133,7 +133,7 @@ ollama serve
 ./db
 ```
 
-**Open your browser** and go to the address printed in the terminal (e.g., `http://localhost:8080` or `http://localhost:9090`). Note: If the frontend doesn't connect, ensure `index.html` `API` constant matches the port the server listens on.
+**Open your browser** and go to the address printed in the terminal (`http://localhost:9090`). Note: If the frontend doesn't connect, ensure `index.html` `API` constant matches the port the server listens on.
 
 ---
 
